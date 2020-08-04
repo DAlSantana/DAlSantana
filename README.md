@@ -11,6 +11,6 @@ Sou um FrontEnd Developer :computer:,mas ás vezes tenho de programar o BackEnd 
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: Angular, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: <strong font-family: 'Roboto', sans-serif;> diegoalsantana@gmail.com </strong>
+ <br/> :email: &nbsp; Entre em contato comigo: <strong style="font-family: 'Roboto', sans-serif;"> diegoalsantana@gmail.com </strong>
 
 
