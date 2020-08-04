@@ -4,7 +4,7 @@
 
 ## Olá pessoal 👋
 Sou programador e amo construir interfaces usando as melhores tecnologias.
-Sou um FrontEnd Developer :computer:,mas ás vezes programo o BackEnd também
+Sou um FrontEnd Developer :computer:,mas ás vezes programo o BackEnd também.
 
  :trophy:  &nbsp; Estou trabalhando na **Interativa**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular
