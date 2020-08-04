@@ -1,5 +1,5 @@
 <img width="auto" src="https://avatars3.githubusercontent.com/u/48577083?s=460&u=4902cfe806d5f2197530a2abb7256763a37b6261&v=4" height="100px">
-
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 # Diego Alves Santana
 
 ## Olá pessoal 👋
@@ -7,10 +7,10 @@ Sou programador e amo construir interfaces usando as melhores tecnologias.
 Sou um FrontEnd Developer :computer:,mas ás vezes tenho de programar o BackEnd também
 
  :trophy:  &nbsp; Estou trabalhando na **Interativa**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular ou React
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: Angular ou ReactJS, Node.js, React Native ou Ionic & Typescript
+ <br/> :computer: &nbsp; Minha stack: Angular, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+ <br/> :email: &nbsp; Entre em contato comigo: <strong font-family: 'Roboto', sans-serif;> diegoalsantana@gmail.com </strong>
 
 
