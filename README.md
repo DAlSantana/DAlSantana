@@ -10,7 +10,7 @@ Sou um FrontEnd Developer :computer:,mas ás vezes programo o BackEnd também.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: Angular, Node.js,Ionic & Typescript
- <br/> Amo muito o universo de programação e estou aprendendo React & React Native :purple_heart: :rocket:
+ <br/> :rocket: Amo muito o universo de programação e estou aprendendo React & React Native :purple_heart: 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: <strong style="font-family: 'Roboto', sans-serif;"> diegoalsantana@gmail.com </strong>
 
