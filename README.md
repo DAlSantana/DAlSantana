@@ -1,6 +1,6 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-# Diego Alves Santana
+# <h1> Diego Alves Santana </h1>
 
 ## Olá pessoal 👋
 Sou programador e amo construir interfaces usando as melhores tecnologias.
