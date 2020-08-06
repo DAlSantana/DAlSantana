@@ -1,4 +1,4 @@
-<img width="200px" src="https://avatars3.githubusercontent.com/u/48577083?s=460&u=4902cfe806d5f2197530a2abb7256763a37b6261&v=4" height="100px">
+<img width="200px" src="https://avatars3.githubusercontent.com/u/48577083?s=460&u=4902cfe806d5f2197530a2abb7256763a37b6261&v=4" height="300px">
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 # Diego Alves Santana
 
