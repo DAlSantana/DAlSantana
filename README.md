@@ -6,7 +6,7 @@
 Sou programador e amo construir interfaces usando as melhores tecnologias.
 Sou um FrontEnd Developer :computer:,mas ás vezes programo o BackEnd também.
 
- :trophy:  &nbsp; Estou trabalhando na **Interativa**
+ :trophy:  &nbsp; Estou trabalhando na **Everis**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: Angular, Node.js,Ionic & Typescript
