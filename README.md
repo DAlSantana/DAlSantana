@@ -6,7 +6,7 @@
 Sou programador e amo construir interfaces usando as melhores tecnologias.
 Sou um FrontEnd Developer :computer:,mas ás vezes programo o BackEnd também.
 
- :trophy:  &nbsp; Estou trabalhando na **Everis** :green_heart:
+ :trophy:  &nbsp; Estou trabalhando no **Banco Santander** ♨️
  <br/> :rocket: &nbsp; Atualmente estou participando do Ignite da RocketSeat nas trilhas de React e Node.js.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular ou React, e em projetos Back-end usando Node.js.
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout, Flexbox e em desenvolvimento de Apis Rest.
