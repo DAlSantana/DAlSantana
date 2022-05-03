@@ -1,4 +1,4 @@
- <a href="]https://www.linkedin.com/in/diego-alves-santana-0720b317a">Hello World, I am Diego  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px"><a/>
+ <a href="]https://www.linkedin.com/in/diego-alves-santana-0720b317a">Hello World, I am Diego  <img src="https://media2.giphy.com/media/13aamGMSgU9TXy/giphy.gif?cid=790b7611f42199c3b67d4a1f5379dc979638a97d25f9c870&rid=giphy.gif&ct=g" width="30px"><a/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=My+name+is+Diego%2C+I+am+22+years+old+)](https://github.com/DALSantana/DALSantana/) </h3>
 
