@@ -1,11 +1,10 @@
  <a href="]https://www.linkedin.com/in/diego-alves-santana-0720b317a">Hello World, I am Diego  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px"><a/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=My+name+is+Diego%2C+I+am+22+years+old+)](https://github.com/DALSantana/DALSantana/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
-]
+
 
 - 💻 Web Developer
 - :mortar_board: Computer Science
--
 
 ### Languages and Tools <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="10px">
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=style=flat-square&logo=javascript&logoColor=black)
