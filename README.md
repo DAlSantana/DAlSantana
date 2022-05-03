@@ -1,7 +1,8 @@
  <a href="]https://www.linkedin.com/in/diego-alves-santana-0720b317a">Hello World, I am Diego  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px"><a/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=My+name+is+Diego%2C+I+am+22+years+old+)](https://github.com/DALSantana/DALSantana/) </h3>
-<img src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">via GIPHY</a></p>
+
+<img src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b761187ebdb17f9f0e7fa2b0f31a5e3b5b8a4f5a2db0c&rid=giphy.gif&ct=g">
 
 - 💻 Web Developer
 - :mortar_board: Computer Science
