@@ -7,7 +7,7 @@
 - 💻 Web Developer
 - :mortar_board: Computer Science
 
-### Languages and Tools <img src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b761187ebdb17f9f0e7fa2b0f31a5e3b5b8a4f5a2db0c&rid=giphy.gif&ct=g" width="50px">
+### Languages and Tools 
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=style=flat-square&logo=javascript&logoColor=black)
 ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=style=flat-square&logo=html5&logoColor=white)
 ![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=style=flat-square&logo=css3&logoColor=white)
