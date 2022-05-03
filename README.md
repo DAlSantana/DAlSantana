@@ -18,7 +18,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DALSantana)](https://github.com/DAlSantana)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idavisilveira/)](https://www.linkedin.com/in/diego-alves-santana-0720b317a)
 
-[![Github Whatsapp](https://img.shields.io/badge/whatsapp-00FA9A?style=flat-square&l&logo=whatsapp&logoColor=white&link=https://murilo-farias.netlify.app/)](https://api.whatsapp.com/send?phone=5511985699227text=&source=&data=&app_absent=)
+[![Github Whatsapp](https://img.shields.io/badge/whatsapp-00FA9A?style=flat-square&l&logo=whatsapp&logoColor=white&link=https://murilo-farias.netlify.app/)](https://api.whatsapp.com/send?phone=5511985699227)
 
 
 ### Gihub Activities <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="10px">
