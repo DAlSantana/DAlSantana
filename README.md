@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=My+name+is+Diego%2C+I+am+22+years+old+)](https://github.com/DALSantana/DALSantana/) </h3>
 
-<img src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b761187ebdb17f9f0e7fa2b0f31a5e3b5b8a4f5a2db0c&rid=giphy.gif&ct=g" width="30px">
+
 
 - 💻 Web Developer
 - :mortar_board: Computer Science
 
-### Languages and Tools <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="10px">
+### Languages and Tools <img src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b761187ebdb17f9f0e7fa2b0f31a5e3b5b8a4f5a2db0c&rid=giphy.gif&ct=g" width="50px">
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=style=flat-square&logo=javascript&logoColor=black)
 ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=style=flat-square&logo=html5&logoColor=white)
 ![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=style=flat-square&logo=css3&logoColor=white)
