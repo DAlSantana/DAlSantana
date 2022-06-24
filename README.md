@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/DALSantana/DALSantana/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/DALSantana/DALSantana/snake.svg" alt="Snake animation" />
 
 ###
 
