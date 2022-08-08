@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.Js, Azure, AWS, Tailwind Css**
 
-- 💬 Ask me about **Mean, Mern, Java**
+- 💬 Ask me about **Mean, Mern**
 
 - 📫 How to reach me **diegoalsantana@gmail.com**
 
